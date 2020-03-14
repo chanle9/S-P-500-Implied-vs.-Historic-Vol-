@@ -78,3 +78,4 @@ for ticker in ticker_list:
 
         print("Something didn't work")
         continue
+        
